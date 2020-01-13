@@ -8,3 +8,10 @@
 - statistical exploration of the dataset
 - cleaning of the dataset
 - proposal for a prediction ML algorithm for "can be repaired or not?"
+- prediction interface that uses the database and the ML trained algo
+
+## most advanced work is made for repair Café database
+## next steps would be:
+- merge of the 2 datasets to increase observations >30000
+- merge the ML training algo
+- publication of a prediction API
